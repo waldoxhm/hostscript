@@ -33,3 +33,5 @@ PS：这个脚本比较适合盗版软件比较多的大陆用户，比如我LOL
 谷歌的正确访问方式和常见问题看这里：
 
 https://github.com/racaljk/hosts/wiki/The-hosts-FAQ
+
+理论支持所有装有python3的Unix/Linux系统，我用mac，其他用户自己测试吧~
