@@ -1,6 +1,10 @@
 # hostscript
 My first Bash&amp;Python script to access google for Mainland Chinese users.
-Hosts file from https://github.com/racaljk/hosts 
+
+Hosts file from：
+
+https://github.com/racaljk/hosts 
+
 credit to racaljk
 
 使用方法：
