@@ -1,6 +1,12 @@
 # hostscript
 My first Bash&amp;Python script to access google for Mainland Chinese users.
 
+Running this script needs Python3 installed.
+
+
+Download from here：https://www.python.org/ftp/python/3.6.1/python-3.6.1-macosx10.6.pkg
+
+
 Hosts file from：
 
 https://github.com/racaljk/hosts 
@@ -9,6 +15,7 @@ credit to racaljk
 
 使用方法：
 不写E文了，这玩意儿估计老外也用不着，看了三页python书，写的脚本，解决下自己一直手动在替换的hosts，每次搞好麻烦有木有。
+使用这个脚本电脑里要有Python3，mac自带Python2。但是3要自己装，readme第一个链接就是下载链接，下载双击安装即可。
 
 1.下载h.sh和hosts_edit.py两个文件，把它们放到用户文件夹里~，“/Users/你的用户名”
 
