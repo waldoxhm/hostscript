@@ -29,3 +29,7 @@ credit to racaljk
 
 PS：这个脚本比较适合盗版软件比较多的大陆用户，比如我LOL，之前用了好多hosts屏蔽一些软件的验证服务器。
 代码风格比较烂，看看笑笑就可以啦，有需求的用户自取自用，谢谢~
+
+谷歌的正确访问方式和常见问题看这里：
+
+https://github.com/racaljk/hosts/wiki/The-hosts-FAQ
