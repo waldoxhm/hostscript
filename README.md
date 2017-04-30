@@ -8,7 +8,11 @@ credit to racaljk
 
 1.下载h.sh和hosts_edit.py两个文件，把它们放到用户文件夹里~，“/Users/你的用户名”
 
-2.首次使用：打开你原来的hosts文件“/etc/hosts”，数一数有几行，然后用文本编辑器打开hosts_edit.py,请把“while i < 23:”这句里的23换成你的原来hosts的行数,一劳永逸，以后就不要改了。
+2.首次使用：打开你原来的hosts文件“/etc/hosts”，数一数有几行，然后用文本编辑器打开hosts_edit.py,请把
+
+“while i < 23:”
+
+这句里的23换成你的原来hosts的行数,一劳永逸，以后就不要改了。
 
 3.运行直接在终端里输入sudo sh h.sh,然后输入密码回车即可。
 
