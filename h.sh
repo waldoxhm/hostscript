@@ -4,7 +4,7 @@ echo All Rights Reserved.
 echo Ver. 1.0.
 rm ./hosts_new
 rm ./hosts_old
-wget https://raw.githubusercontent.com/racaljk/hosts/master/hosts
+curl -o ./hosts https://raw.githubusercontent.com/racaljk/hosts/master/hosts
 mv ./hosts ./hosts_new
 cp /etc/hosts ./hosts_old
 python3 edit_hosts.py
