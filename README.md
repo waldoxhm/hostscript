@@ -19,24 +19,25 @@ Python3 Download from here：https://www.python.org/ftp/python/3.6.1/python-3.6.
 使用这个脚本电脑里要有Python3，mac自带Python2。但是3要自己装，readme第一个链接就是下载链接，下载双击安装即可。
 
 
-1.下载h.sh和hosts_edit.py两个文件，把它们放到用户文件夹里~，“/Users/你的用户名”
+- 下载h.sh和hosts_edit.py两个文件，把它们放到用户文件夹里~，“/Users/你的用户名”
 
-2.首次使用：打开你原来的hosts文件“/etc/hosts”，数一数有几行，然后用文本编辑器打开hosts_edit.py,请把
+- 首次使用：打开你原来的hosts文件“/etc/hosts”，数一数有几行，然后用文本编辑器打开hosts_edit.py,请把
 
 “while i < 23:”
 
 这句里的23换成你的原来hosts的行数,一劳永逸，以后就不要改了。
 
-3.运行直接在终端里输入sudo sh h.sh,然后输入密码回车即可。
+- 运行直接在终端里输入sudo sh h.sh,然后输入密码回车即可。
 
 
 ## 谷歌的正确访问方式和常见问题看这里：
-
 https://github.com/racaljk/hosts/wiki/The-hosts-FAQ
 
-理论支持所有装有python3的Unix/Linux系统，我用mac，其他用户自己测试吧~
+比如为什么谷歌还是上不去，youtube视频不能放，请花点时间阅读。
 
 ## PS：
+
+理论支持所有装有python3的Unix/Linux系统，我用mac，其他用户自己测试吧~
 
 这个脚本比较适合盗版软件比较多的大陆用户，比如我LOL，之前用了好多hosts屏蔽一些软件的验证服务器。
 代码风格比较烂，看看笑笑就可以啦，有需求的用户自取自用，谢谢~
@@ -44,6 +45,6 @@ https://github.com/racaljk/hosts/wiki/The-hosts-FAQ
 ## With special thanks to:  
 
 - [racaljk](https://github.com/racaljk/hosts.git)
-hosts file form here.
+hosts file is from here.
 
 
