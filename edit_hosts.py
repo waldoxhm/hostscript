@@ -7,7 +7,7 @@ with open('hosts_new', 'r') as f0:
 	ffile0 = []
 	ffile0=f0.readlines()
 	i=0	
-	while i < 11 :
+	while i < 16 :
 		i = i + 1
 		ffile0.pop(0)
 f0.close
